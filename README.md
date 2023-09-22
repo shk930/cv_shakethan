@@ -28,9 +28,8 @@ J'ai des compétences en SISR
 ### Systèmes embarqués
 -Arduino
 
-###Economie Droit Management
+### Economie Droit Management
 -RGPD
 
-###Autre
 
 
